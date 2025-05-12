@@ -30,7 +30,7 @@ Schizophrenia is a complex mental disorder affecting perception, cognition, and 
 
 - **Model Architecture**: See `G27.pdf`
 - **Data Pipeline**: See `G27.pdf`
-- **References**: Listed in the final section of this README and available in `See `G27.pdf`
+- **References**: Listed in the final section of this README and available in `See G27.pdf`
 
 ## ⚙️ Installation Instructions
 
