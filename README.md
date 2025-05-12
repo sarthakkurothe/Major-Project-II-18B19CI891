@@ -50,7 +50,7 @@ pip install -r requirements.txt
 
 ## 📹 5-Minute Video Demonstration
 
-🎥 [Watch Demo Video]([https://your-video-link.com](https://www.loom.com/share/62c99faf528541daa45376383d5cbe9d?sid=843b0766-ba6c-4e35-9724-42c587ae9ebf))  
+🎥 [Watch Demo Video]([https://www.loom.com/share/62c99faf528541daa45376383d5cbe9d?sid=843b0766-ba6c-4e35-9724-42c587ae9ebf])  
 > This video walks through the project's goals, methodology, demo results, and key findings. It includes a high-level overview of the transformer-based multimodal framework and showcases the data pipeline, visual outputs, and model predictions.
 
 ## 🧪 Additional Features
