@@ -9,16 +9,11 @@ Schizophrenia is a complex mental disorder affecting perception, cognition, and 
 
 ```
 .
-├── data/                      # Raw and preprocessed data (video, audio, text)
-├── models/                   # Trained models and checkpoints
-├── preprocessing/            # Scripts for preprocessing all modalities
-│   ├── video_preprocessing.py
-│   ├── audio_preprocessing.py
-│   └── text_preprocessing.py
-├── multimodal_model/         # Transformer model and mGMU integration
-├── utils/                    # Helper functions (synchronization, augmentation, etc.)
-├── results/                  # Outputs, evaluation metrics, and visualizations
-├── docs/                     # Documentation and reference papers
+├── G27.pptx                  # Presentation for Project
+├── Dataset_unified.ipynb     # Preparing unified dataset (audio, video, text)
+├── Major_1.ipynb             # Outputs for textual data
+├── BERT_Transcripts.ipynb    # Outputs for video and audio datasets
+├── G27.pdf                   # Documentation and reference papers
 ├── README.md                 # Project overview (this file)
 └── requirements.txt          # Required dependencies
 ```
@@ -33,21 +28,21 @@ Schizophrenia is a complex mental disorder affecting perception, cognition, and 
 
 ## 📚 Documentation
 
-- **Model Architecture**: See `/docs/multimodal_architecture.md`
-- **Data Pipeline**: Detailed in `/docs/preprocessing_pipeline.md`
-- **References**: Listed in the final section of this README and available in `/docs/references.bib`
+- **Model Architecture**: See `G27.pdf`
+- **Data Pipeline**: See `G27.pdf`
+- **References**: Listed in the final section of this README and available in `See `G27.pdf`
 
 ## ⚙️ Installation Instructions
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/schizophrenia-multimodal-analysis.git
-cd schizophrenia-multimodal-analysis
+git clone https://github.com/sarthakkurothe/Major-Project-II-18B19CI891.git
+cd Major-Project-II-18B19CI891-main
 
 # Set up a virtual environment
 python -m venv venv
-source venv/bin/activate  # For Linux/macOS
-venv\Scripts\activate     # For Windows
+source venv/bin/activate  
+venv\Scripts\activate   
 
 # Install dependencies
 pip install -r requirements.txt
